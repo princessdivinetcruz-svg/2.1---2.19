@@ -11,5 +11,6 @@ I'm ready for Java programming.
     public static void main(String[] args) {
         System.out.print("Hello, world! ");
         System.out.println("I am a new student.");
+        System.out.println("I'm ready for Java programming!");
     }
 }
